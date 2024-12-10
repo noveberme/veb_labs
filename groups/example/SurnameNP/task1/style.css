@@ -1,0 +1,125 @@
+body {
+    margin-top: 1.5cm;
+    margin-left: 9.6cm;
+    margin-right: 9.6cm;
+    padding-left: 1.5cm;
+    padding-right: 1.5cm;
+    margin-bottom: 1.5cm;
+}
+
+.Oster {
+    text-align: right;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.Phisic {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.Name_task1 {
+    margin: 0 auto;
+    text-align: justify;
+    font-family: 'Times New Roman';
+    font-size: 14;
+}
+
+.task1 {
+    margin: 0 auto;
+    text-align: justify;
+    font-family: 'Times New Roman';
+    font-size: 12px;
+    text-indent: 1cm;
+}
+
+
+
+.Answer_task1 {
+    margin-left: 1.2cm;
+    text-align: justify;
+    font-family: 'Times New Roman';
+    font-size: 10px;
+    text-indent: -1.1cm;
+}
+
+.Name_task2 {
+    margin: 0 auto;
+    text-align: left;
+    font-family: 'Courier New';
+    font-size: 14px;
+    line-height: 2em;
+}
+
+.task2 {
+    margin: 0 auto;
+    text-indent: 0cm;
+    text-align: left;
+    font-family: 'Courier New';
+    font-size: 14px;
+    line-height: 2em;
+}
+
+.Answer_task2 u {
+    letter-spacing: 1em;
+    margin-left: 1.2cm;
+    text-align: justify;
+    font-family: 'Times New Roman';
+    font-size: 10px;
+    text-indent: -1.1cm;
+}
+
+.Answer_task2 {
+    margin-left: 6.5cm;
+    margin-right: 2.5cm;
+    text-indent: 1cm;
+    text-align: left;
+    font-family: 'Courier New';
+    font-size: 9px;
+}
+
+.Name_task3 {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Times New Roman';
+}
+
+.task3 {
+    margin-left: 3cm;
+    margin-right: 4.5cm;
+    margin-top: 0cm;
+    text-align: justify;
+    font-size: 12px;
+    font-family: 'Times New Roman';
+}
+
+.Answer_task3 {
+    margin-left: 3cm;
+    margin-right: 4cm;
+    text-align: justify;
+    font-size: 8px;
+    font-family: 'Times New Roman';
+}
+
+.Name_task4 {
+    margin: 0 auto;
+    text-align: right;
+    font-size: 17px;
+    font-family: 'Times New Roman';
+}
+
+.task4 {
+    margin-left: 3cm;
+    text-align: right;
+    font-size: 10px;
+    font-family: 'Times New Roman';
+}
+
+.Answer_task4 {
+    margin: 0 auto;
+    text-align: right;
+    font-size: 10px;
+    font-family: 'Times New Roman';
+}
